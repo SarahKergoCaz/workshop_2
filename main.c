@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include "operations.h"
 
 int main() {
-    printf("Hello depuis la branche main\n");
+    int a = 5, b = 3;
+    printf("Addition : %d + %d = %d\n", a, b, addition(a, b));
+    printf("Soustraction : %d - %d = %d\n", a, b, soustraction(a, b));
     return 0;
 }
