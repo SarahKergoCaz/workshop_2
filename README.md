@@ -2,7 +2,7 @@
 
 ## 📌 Consignes
 
-Faites un **fork de ce repo** pour pouvoir le modifier.
+Faites un **fork de ce repo** pour pouvoir le modifier. (pensez à décocher le main only)
 
 ---
 
